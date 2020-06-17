@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20837686c9bffc886682e08e54c6d176",
+    "revision": "f569c9488d0798106e44732f7b01cf87",
     "url": "/react-salary/index.html"
   },
   {
-    "revision": "9cb9f1818834dfb59e63",
-    "url": "/react-salary/static/css/main.8a357863.chunk.css"
+    "revision": "cd9310ce77d08f4af1d7",
+    "url": "/react-salary/static/css/main.140c79f3.chunk.css"
   },
   {
     "revision": "bb1882150c8b63abb55f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-salary/static/js/2.e1b35861.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cb9f1818834dfb59e63",
-    "url": "/react-salary/static/js/main.6a1e783c.chunk.js"
+    "revision": "cd9310ce77d08f4af1d7",
+    "url": "/react-salary/static/js/main.739c5db5.chunk.js"
   },
   {
     "revision": "b8478ce8ee65e9c0b40c",

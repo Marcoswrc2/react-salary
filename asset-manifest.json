@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-salary/static/css/main.8a357863.chunk.css",
-    "main.js": "/react-salary/static/js/main.6a1e783c.chunk.js",
-    "main.js.map": "/react-salary/static/js/main.6a1e783c.chunk.js.map",
+    "main.css": "/react-salary/static/css/main.140c79f3.chunk.css",
+    "main.js": "/react-salary/static/js/main.739c5db5.chunk.js",
+    "main.js.map": "/react-salary/static/js/main.739c5db5.chunk.js.map",
     "runtime-main.js": "/react-salary/static/js/runtime-main.6bd9649a.js",
     "runtime-main.js.map": "/react-salary/static/js/runtime-main.6bd9649a.js.map",
     "static/js/2.e1b35861.chunk.js": "/react-salary/static/js/2.e1b35861.chunk.js",
     "static/js/2.e1b35861.chunk.js.map": "/react-salary/static/js/2.e1b35861.chunk.js.map",
     "index.html": "/react-salary/index.html",
-    "precache-manifest.88c7e66259d1d0300a31ba39efcaceee.js": "/react-salary/precache-manifest.88c7e66259d1d0300a31ba39efcaceee.js",
+    "precache-manifest.66559ccd602b8922d466c18ae6525c04.js": "/react-salary/precache-manifest.66559ccd602b8922d466c18ae6525c04.js",
     "service-worker.js": "/react-salary/service-worker.js",
-    "static/css/main.8a357863.chunk.css.map": "/react-salary/static/css/main.8a357863.chunk.css.map",
+    "static/css/main.140c79f3.chunk.css.map": "/react-salary/static/css/main.140c79f3.chunk.css.map",
     "static/js/2.e1b35861.chunk.js.LICENSE.txt": "/react-salary/static/js/2.e1b35861.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6bd9649a.js",
     "static/js/2.e1b35861.chunk.js",
-    "static/css/main.8a357863.chunk.css",
-    "static/js/main.6a1e783c.chunk.js"
+    "static/css/main.140c79f3.chunk.css",
+    "static/js/main.739c5db5.chunk.js"
   ]
 }
