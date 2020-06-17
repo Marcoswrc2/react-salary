@@ -35,8 +35,7 @@ export default function InputReadOnly(props) {
 }
 const useStyles = makeStyles({
   textField: {
-    fontWeight: 'bold',
-    color: 'black',
+    marginTop: 10,
   },
   inputRegular: {
     fontWeight: 'bold',

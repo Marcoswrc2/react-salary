@@ -51,19 +51,36 @@ export default class App extends Component {
             <div style={{ display: 'flex', flexDirection: 'row', marginTop: 20, justifyContent: 'center' }}>
               <InputSalary onChange={this.handleInput} />
             </div>
-            <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-around', marginTop: 30 }}>
+            <div
+              style={{
+                display: 'flex',
+                flexDirection: 'row',
+                justifyContent: 'space-around',
+                marginTop: 30,
+                flexWrap: 'wrap',
+              }}
+            >
               <InputReadOnly regular placeholder='Base INSS' value={baseINSS ? baseINSS.toFixed(2) : '0'} />
               <InputReadOnly descINSS placeholder='Desconto INSS' value={descINSS ? descINSS : '0'} />
               <InputReadOnly regular placeholder='Base IRPF' value={baseIR ? baseIR : '0'} />
               <InputReadOnly descIR placeholder='Desconto IRPF' value={descIR ? descIR : '0'} />
             </div>
-            <div style={{ display: 'flex', flexDirection: 'row', marginTop: 30, justifyContent: 'center' }}>
+            <div
+              style={{
+                display: 'flex',
+                flexDirection: 'row',
+                marginTop: 30,
+                marginBottom: 50,
+                justifyContent: 'center',
+              }}
+            >
               <InputReadOnly liquid placeholder='Salário Líquido' value={liquid ? liquid.toFixed(2) : '0'} />
             </div>
             <div
               style={{
                 display: 'flex',
                 marginTop: 40,
+                marginBottom: 40,
                 width: '100%',
               }}
             >
